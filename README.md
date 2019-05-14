@@ -18,6 +18,6 @@ yarn test:coverage
 ## Complexity 
 - Exercise 1:
 ```
-load(): complexity is O(n),
+load(): complexity is O(n*m),
 store(): complexity is O(m*n)
 ```
